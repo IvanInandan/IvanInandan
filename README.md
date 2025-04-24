@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Inandan</h1>
 <h3 align="center">A passionate full-stack web developer from San Diego, CA</h3>
 
-- 🔭 I’m currently working on [FullStackOpen](https://github.com/IvanInandan/FullStackOpen)
+- 🔭 I’m currently working on [Stax](https://github.com/IvanInandan/Stax)
 
 - 🌱 I’m currently learning **Frameworks**
 
